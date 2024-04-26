@@ -15,7 +15,8 @@ git clone <repository Url>
 streamlit run app.py
 ```
 
-**IMPORTANT NOTE**
+**IMPORTANT NOTE:**
+
 In this project, I utilized the pdf2image library, which has a dependency known as Poppler. To install Poppler on Windows, you can download it from the following link: https://github.com/oschwartz10612/poppler-windows/releases/. After downloading the latest release, navigate to the Program Files directory in the C drive. Create a folder named 'Poppler' and extract the contents of the downloaded folder into it. Within the 'Poppler' folder, navigate to the 'library' directory, then to 'bin'. Copy the path of the 'bin' directory and add it to the System variable of the environment variables. Once completed, you're all set to proceed with the project.
 
 **Built with :**
@@ -23,3 +24,10 @@ In this project, I utilized the pdf2image library, which has a dependency known 
 Python, Gemini, LLM, Streamlit, PDF2Image
 
 **Some screenshots of the tools :**
+![Website Image](https://github.com/satyamraj18/Talk-to-your-resume-using-Gemini/blob/main/ats1.png)
+![Website Image](https://github.com/satyamraj18/Talk-to-your-resume-using-Gemini/blob/main/ats2.png)
+![Website Image](https://github.com/satyamraj18/Talk-to-your-resume-using-Gemini/blob/main/ats3.png)
+![Website Image](https://github.com/satyamraj18/Talk-to-your-resume-using-Gemini/blob/main/ats4.png)
+
+
+Use my application and wish you all the best !!!
